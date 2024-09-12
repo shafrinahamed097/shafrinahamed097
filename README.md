@@ -4,7 +4,7 @@
 <img align="right" alt="matrix" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 # 💫 About Me:
-🔭 I’m currently working on **Develop Web-Site**<br>💬 Ask me about **laravel, react,mysql, sqlite, JS, WordPress**<br>📫 Reach me **shafrinahamedsa@gmail.com**<br>💬 All of my details **[https://mrdeveloper.dev/](https://mrdeveloper.dev/)**<br>📄 <br>⚡ Fun fact **Don't be a (d^3x)/(dt^3)**
+🔭 I’m currently working on **Develop Web-Site**<br>💬 Ask me about **laravel, react,mysql, sqlite, JS, WordPress**<br>📫 Reach me **shafrinahamedsa@gmail.com**<br>💬 All of my details **[https://mrdeveloper.dev/](https://mrdeveloper.dev/)**<br>⚡ Fun fact **Don't be a (d^3x)/(dt^3)**
 
 
 ## 🌐 Socials:
