@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Shafrin Ahamed<br>- 👀 I’m interested in Create Web-site<br>- 🌱 I’m currently learning development in Web-site<br>- 💞️ I’m looking to collaborate on in myself.<br>- 📫 How to reach me.<br><br>
+👋 Hi, I’m @Shafrin Ahamed<br>- 👀 I’m interested in Create Web-site<br>- 🌱 I’m currently learning development in Web-site<br>- 💞️ I’m looking to collaborate on in myself.<br>- 📫  reach me shafrinahamedsa@gmail.com.<br><br>
 
 
 ## 🌐 Socials:
